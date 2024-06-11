@@ -1,0 +1,18 @@
+employees
+{
+  "_id": {"$oid": "666757d3e715f62321391654"},
+  "employee_id": "EMP002",
+  "full_name": "Jane Smith",
+  "email": "jane@example.com",
+  "hashed_password": "hashed_password_here",
+  "__v": {"$numberInt": "0"}
+}
+
+{
+  "_id": {"$oid": "666757d3e715f62321391655"},
+  "employee_id": "EMP003",
+  "full_name": "Robert Johnson",
+  "email": "robert@example.com",
+  "hashed_password": "hashed_password_here",
+  "__v": {"$numberInt": "0"}
+}
